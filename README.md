@@ -75,12 +75,6 @@ My first Dockerized FastAPI project, covering Docker and Kubernetes fundamentals
 
 ---
 
-## GitHub Stats
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carrasco515&show_icons=true&theme=transparent&hide_rank=true)
-
----
-
 ## Contact
 
 The best way to reach me is right here on GitHub:
